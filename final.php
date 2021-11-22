@@ -27,6 +27,6 @@ require "vendor/autoload.php";
 
     
 }
- else{ echo '<script>alert("Something Wenr Wrong")</script>';}
+ else{ echo '<script>alert("Something Went Wrong")</script>';}
 
 ?>
