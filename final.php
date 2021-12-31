@@ -22,7 +22,7 @@ require "vendor/autoload.php";
      
      
      echo '<script>alert("Mail Sent Successfully");
-     window.location.replace("http://localhost/tatva/");</script>';
+     window.location.replace("http://kenilportfolio.unaux.com/#");</script>';
 
 
     
