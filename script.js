@@ -1,4 +1,6 @@
 $(document).ready(function(){
+  
+    $("#loading").fadeOut();
     $(window).scroll(function(){
         // sticky navbar on scroll script
         if(this.scrollY > 20){
@@ -74,3 +76,4 @@ $(document).ready(function(){
 });
 
 
+    //after window is loaded completely 
